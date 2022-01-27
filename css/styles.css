@@ -1,0 +1,19 @@
+/* .class1 {} styles for elements with class1 as
+   .class, .class2 {} styles for elements with class1 and elements with class2 
+   .class1.class2 {} styles for elements with class1 and class2
+   .class1 .class2 {} styles for elements with class2 inside elements with class1
+   #id1 {} style for elements with id1 as id 
+   * {} styles for each and every element 
+   h1 {} styles for each h1 element */
+
+* {
+    background-color: rgb(87, 55, 55);
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+.body-text {
+    font-size: 25px;
+}
+h1 {
+    font-size: 45px;
+}
