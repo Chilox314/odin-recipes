@@ -19,3 +19,23 @@ h1 {
     font-size: 45px;
     font-weight: 900;
 }
+.box-one{
+    font-size: 30px;
+    background-color: red;
+    padding: 5px;
+    height: 100px;
+    width: 100px;
+    border: 20px solid purple;
+    margin: 60px;
+    box-sizing: border-box;
+}
+.box-two{
+    font-size: 40px;
+    background-color: blue;
+    border: 0 solid green;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid purple;
+    margin: 60px;
+}
